@@ -1,0 +1,3 @@
+export AWS_RAW_BUCKET="retail-analytics-raw-kvr20240218"
+export AWS_PROCESSED_BUCKET="retail-analytics-processed-kvr20240218"
+export AWS_ANALYTICS_BUCKET="retail-analytics-analytics-kvr20240218"

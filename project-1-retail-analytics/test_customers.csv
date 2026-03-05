@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,country,signup_date,customer_segment
+1,John,Doe,john@example.com,555-0001,123 Main St,Boston,MA,02101,USA,2024-01-15,Premium
+2,Jane,Smith,jane@example.com,555-0002,456 Oak Ave,Austin,TX,78701,USA,2024-01-16,Standard
+3,Bob,Johnson,bob@example.com,555-0003,789 Pine Rd,Seattle,WA,98101,USA,2024-01-17,Premium
